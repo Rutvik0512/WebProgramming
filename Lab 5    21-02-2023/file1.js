@@ -1,5 +1,5 @@
 import { greeting } from "./file2.js";
-//importing using alias name
+//importing using alias name ,importing a file which has pre-defined alias name
 import { add,multiplication as product} from "./file2.js";
 // importing via default keyword
 import product3 from "./file2.js"
