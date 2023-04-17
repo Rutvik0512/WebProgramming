@@ -1,4 +1,4 @@
-// @ts-nocheck
+                                                             // @ts-nocheck
 const fs = require("fs")
 
 if(!fs.existsSync("FS Module/Mydir")){
